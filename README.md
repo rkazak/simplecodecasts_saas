@@ -3,6 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Web App - subscription based service -
+https://secret-mountain-92053.herokuapp.com/ | https://git.heroku.com/secret-mountain-92053.git
+
 Things you may want to cover:
 
 * Ruby version
