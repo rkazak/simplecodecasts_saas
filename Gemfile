@@ -21,6 +21,9 @@ group :production do
    gem 'rails_12factor'
 end
 
+# Add this for jquery support and bootstrap
+gem 'jquery-rails'
+gem 'popper_js'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
